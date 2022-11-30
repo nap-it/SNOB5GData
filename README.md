@@ -36,3 +36,7 @@ ISSN 1570-8705,
 https://doi.org/10.1016/j.adhoc.2022.103050.
 (https://www.sciencedirect.com/science/article/pii/S1570870522002220)
 
+## Contact
+Any questions are welcome.
+
+Tânia Ferreira tania.s.ferreira@ua.pt
