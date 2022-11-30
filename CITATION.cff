@@ -19,6 +19,6 @@ authors:
 - family-names: "Sargento"
   given-names: "Susana"
   orcid: "https://orcid.org/0000-0001-8761-8281"
-title: "Cross-layer dataset of WiGig links submitted to blockage in an outdoor enviornment"
-date-released: 2022-04-21
-url: "https://github.com/nap-it/SNOB5GData"
+title: "Improving mmWave backhaul reliability: A machine-learning based approach"
+date-released: 2022
+url: "https://doi.org/10.1016/j.adhoc.2022.103050"
