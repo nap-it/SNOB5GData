@@ -39,4 +39,4 @@ https://doi.org/10.1016/j.adhoc.2022.103050.
 ## Contact
 Any questions are welcome.
 
-Tânia Ferreira tania.s.ferreira@ua.pt
+Tânia Ferreira tania.s.ferreira@av.it.pt
